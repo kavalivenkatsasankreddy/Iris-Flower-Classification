@@ -105,6 +105,10 @@ iris-flower-classification/
 ├── README.md
 
 
+📸 Output Screenshot :
+
+<img width="1915" height="1199" alt="Screenshot 2026-01-17 195700" src="https://github.com/user-attachments/assets/f4ec607e-5d25-4a01-b741-ba8df2799453" />
+
 
 🧠 CONCLUSION :
 
